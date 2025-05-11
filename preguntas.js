@@ -431,7 +431,7 @@ let questions = [
   {
     numb: 40,
     question: "¿Cuál es el nombre del centro deportivo municipal que ofrece instalaciones para diversas disciplinas, incluyendo un gimnasio de boxeo?",
-    answer: "Complejo Deportivo Tito Navarrete",
+    answer: "Polideportivo Leonidas Proaño",
     options: [
       "Estadio Reina del Cisne",
       "Coliseo Ciudad de Macas",
@@ -2235,7 +2235,7 @@ let questions = [
   {
     numb: 204,
     question: "¿En concentraciones habituales el óxido nítrico es tóxico para la salud humana?",
-    answer: "Si es tóxico",
+    answer: "No presenta ningún daño",
     options: [
       "Si es tóxico",
       "No presenta ningún daño",
@@ -2466,7 +2466,7 @@ let questions = [
   {
     numb: 225,
     question: "¿Cuántos concejales integran el Concejo Municipal de Morona?",
-    answer: "7",
+    answer: "5",
     options: [
       "3",
       "5",
@@ -3079,556 +3079,8 @@ let questions = [
       "El Consejo Municipal"
     ]
   },
-  {
-    numb: 231,
-    question: "¿Quién reemplaza al Alcalde en caso de ausencia temporal?",
-    answer: "El vicealcalde (sa)",
-    options: [
-      "El gobernador (a)",
-      "El vicealcalde (sa)",
-      "El secretario (a) municipal",
-      "Un concejal suplente"
-    ]
-  },
-  {
-    numb: 232,
-    question: "¿Qué autoridad representa al Ejecutivo en la provincia?",
-    answer: "El gobernador",
-    options: [
-      "El gobernador",
-      "El prefecto",
-      "El alcalde",
-      "El concejal rural"
-    ]
-  },
-  {
-    numb: 233,
-    question: "¿Qué función tiene el prefecto provincial respecto al cantón Morona?",
-    answer: "Realizar obras de competencia provincial",
-    options: [
-      "Ejecutar ordenanzas cantonales",
-      "Nombrar concejales",
-      "Realizar obras de competencia provincial",
-      "Presidir el concejo cantonal"
-    ]
-  },
-  {
-    numb: 234,
-    question: "¿Qué autoridad tiene competencia en las parroquias rurales del Cantón?",
-    answer: "Presidente parroquial",
-    options: [
-      "Alcalde",
-      "Prefecto",
-      "Presidente parroquial",
-      "Gobernador"
-    ]
-  },
-  {
-    numb: 235,
-    question: "¿Qué autoridad es responsable de la planificación urbana del cantón Morona?",
-    answer: "El GAD Municipal",
-    options: [
-      "El GAD Municipal",
-      "El Consejo Provincial",
-      "La Gobernación",
-      "El Consejo Nacional Electoral"
-    ]
-  },
-  {
-    numb: 236,
-    question: "¿Cuál de los siguientes organismos organiza las elecciones populares?",
-    answer: "CNE (Consejo Nacional Electoral)",
-    options: [
-      "GAD Municipal",
-      "CNE (Consejo Nacional Electoral)",
-      "Ministerio de Gobierno",
-      "Asamblea Nacional"
-    ]
-  },
-  {
-    numb: 237,
-    question: "¿Cuál es una de las funciones del vicealcalde?",
-    answer: "Reemplazar al alcalde",
-    options: [
-      "Administrar parroquias",
-      "Reemplazar al alcalde",
-      "Dirigir el consejo provincial",
-      "Supervisar la gobernación"
-    ]
-  },
-  {
-    numb: 238,
-    question: "¿Qué autoridad aprueba el presupuesto anual del cantón Morona?",
-    answer: "Concejo Municipal",
-    options: [
-      "Prefecto",
-      "Concejo Municipal",
-      "Gobernador",
-      "Consejo Parroquial"
-    ]
-  },
-  {
-    numb: 239,
-    question: "¿Cuántos niveles de gobierno existen en el cantón Morona según el COOTAD?",
-    answer: "Tres",
-    options: [
-      "Uno",
-      "Dos",
-      "Tres",
-      "Cuatro"
-    ]
-  },
-  {
-    numb: 240,
-    question: "¿Qué significa GAD?",
-    answer: "Gobierno Autónomo Descentralizado",
-    options: [
-      "Gobierno Autónomo Descentralizado",
-      "Gobierno Administrativo Democrático",
-      "Grupo Autónomo de Dirección",
-      "Gestión de Administración Directa"
-    ]
-  },
-  {
-    numb: 241,
-    question: "¿Cuál de estas competencias NO le corresponde al GAD cantonal?",
-    answer: "Control migratorio",
-    options: [
-      "Agua potable",
-      "Alcantarillado",
-      "Control migratorio",
-      "Gestión de residuos sólidos"
-    ]
-  },
-  {
-    numb: 242,
-    question: "¿Qué autoridad coordina con el GAD para temas de seguridad?",
-    answer: "Gobernador",
-    options: [
-      "Prefecto",
-      "Gobernador",
-      "Presidente parroquial",
-      "Vicealcalde"
-    ]
-  },
-  {
-    numb: 243,
-    question: "¿Qué institución tiene competencia en vías urbanas dentro del cantón?",
-    answer: "Municipio",
-    options: [
-      "Prefectura",
-      "Municipio",
-      "Gobernación",
-      "CNE"
-    ]
-  },
-  {
-    numb: 244,
-    question: "¿Cuál es el órgano colegiado responsable de emitir ordenanzas cantonales?",
-    answer: "Concejo Municipal",
-    options: [
-      "Gobernador",
-      "Concejo Municipal",
-      "Prefecto",
-      "Presidente Parroquial"
-    ]
-  },
-  {
-    numb: 245,
-    question: "¿Cuál es la función de las juntas parroquiales rurales?",
-    answer: "Administrar parroquias rurales",
-    options: [
-      "Fiscalizar al alcalde",
-      "Administrar parroquias rurales",
-      "Hacer campañas políticas",
-      "Aprobar leyes nacionales"
-    ]
-  },
-  {
-    numb: 246,
-    question: "¿Qué autoridad dirige la sesión del Concejo Municipal?",
-    answer: "El alcalde",
-    options: [
-      "El alcalde",
-      "El vicealcalde",
-      "El gobernadora",
-      "El prefecto"
-    ]
-  },
-  {
-    numb: 247,
-    question: "¿Cada cuánto tiempo se reúne el Concejo Municipal de Morona?",
-    answer: "Al menos una vez por semana",
-    options: [
-      "Cada 6 meses",
-      "Al menos una vez por semana",
-      "Cada 3 días",
-      "Cada mes"
-    ]
-  },
-  {
-    numb: 248,
-    question: "¿Qué autoridad coordina el desarrollo parroquial?",
-    answer: "Gobierno Parroquial",
-    options: [
-      "Concejo Municipal",
-      "Gobierno Parroquial",
-      "Gobernador",
-      "Asamblea"
-    ]
-  },
-  {
-    numb: 249,
-    question: "¿Cuál es un derecho de los ciudadanos del cantón Morona respecto a sus autoridades?",
-    answer: "Elegirlas por votación",
-    options: [
-      "Imponer normas",
-      "Elegirlas por votación",
-      "Nombrarlas por decreto",
-      "Asignarles salario"
-    ]
-  },
-  {
-    numb: 250,
-    question: "¿Cuál de las siguientes instituciones no es parte del gobierno local?",
-    answer: "Asamblea Nacional",
-    options: [
-      "Asamblea Nacional",
-      "GAD Municipal",
-      "Gobierno Parroquial",
-      "GAD Provincial"
-    ]
-  },
-  {
-    numb: 251,
-    question: "¿Qué organismo dirige las acciones de respuesta ante emergencias en el cantón?",
-    answer: "COE Cantonal",
-    options: [
-      "COE Nacional",
-      "COE Provincial",
-      "COE Cantonal",
-      "COE Regional"
-    ]
-  },
-  {
-    numb: 252,
-    question: "¿Cuál es el nombre actual del alcalde del cantón Morona?",
-    answer: "Francisco Andramuño",
-    options: [
-      "Francisco Cabrera",
-      "Juan Carlos Subía",
-      "Francisco Andramuño",
-      "Edwin Noguera"
-    ]
-  },
-  {
-    numb: 253,
-    question: "¿Qué institución se encarga de la planificación territorial del cantón?",
-    answer: "Municipio de Morona",
-    options: [
-      "Ministerio de Ambiente",
-      "Prefectura",
-      "Municipio de Morona",
-      "Asamblea Nacional"
-    ]
-  },
-  {
-    numb: 254,
-    question: "¿Qué autoridad del cantón aprueba el plan de desarrollo y ordenamiento territorial?",
-    answer: "Concejo Municipal",
-    options: [
-      "Gobernación",
-      "Concejo Municipal",
-      "Prefecto",
-      "Presidente parroquial"
-    ]
-  },
-  {
-    numb: 255,
-    question: "¿Qué órgano ejecuta las obras públicas en el área urbana del cantón?",
-    answer: "GAD Municipal",
-    options: [
-      "Consejo Parroquial",
-      "GAD Municipal",
-      "Prefectura",
-      "Gobernación"
-    ]
-  },
-  {
-    numb: 256,
-    question: "¿Qué autoridad coordina la seguridad ciudadana con la Policía Nacional?",
-    answer: "Gobernador",
-    options: [
-      "Prefecto",
-      "Vicealcalde",
-      "Gobernador",
-      "Presidente del GAD parroquial"
-    ]
-  },
-  {
-    numb: 257,
-    question: "¿Qué autoridad tiene competencia para autorizar ferias y mercados en el cantón?",
-    answer: "Alcalde",
-    options: [
-      "Presidente parroquial",
-      "Prefecto",
-      "Gobernador",
-      "Alcalde"
-    ]
-  },
-  {
-    numb: 258,
-    question: "¿Quién lidera el gobierno municipal en Morona?",
-    answer: "El Alcalde",
-    options: [
-      "El Gobernador",
-      "El Alcalde",
-      "El Prefecto",
-      "El Presidente parroquial"
-    ]
-  },
-  {
-    numb: 259,
-    question: "¿Qué instrumento regula las competencias municipales?",
-    answer: "El COOTAD",
-    options: [
-      "La Constitución",
-      "El COOTAD",
-      "El Código Civil",
-      "La Ley de Contratación Pública"
-    ]
-  },
-  {
-    numb: 260,
-    question: "¿En qué artículo de la constitución declara que es derecho humano irrenunciable el Acceso al agua?",
-    answer: "Art. 12",
-    options: [
-      "Art. 12",
-      "Art. 20",
-      "Art. 27",
-      "Art. 10"
-    ]
-  },
-  {
-    numb: 261,
-    question: "¿En qué artículo de la constitución se reconoce el derecho a la población de vivir en un ambiente sano y ecológicamente equilibrado?",
-    answer: "Art. 14",
-    options: [
-      "Art. 18",
-      "Art. 15",
-      "Art. 14",
-      "Ninguna"
-    ]
-  },
-  {
-    numb: 262,
-    question: "¿Cuál es el objetivo de declarar zonas de protecciones ecológicas?",
-    answer: "Todas las anteriores",
-    options: [
-      "Preservar el proceso natural de generación de agua o ciclo hidrológico",
-      "Proteger los ecosistemas naturales, mediante la preservación de la cobertura vegetal natural.",
-      "Mejorar el paisaje natural con la plantación de especies nativas",
-      "Todas las anteriores"
-    ]
-  },
-  {
-    numb: 263,
-    question: "¿Las zonas de protección ecológica en qué áreas deben estar ubicadas?",
-    answer: "Todas las anteriores",
-    options: [
-      "Nacimientos de agua intermitente o permanente",
-      "Las playas de ríos, lagos o lagunas naturales o artificiales",
-      "Las riberas de los ríos, desde su nacimiento hasta su desembocadura",
-      "Todas las anteriores"
-    ]
-  },
-  {
-    numb: 264,
-    question: "¿Cuál es el gentilicio con el cual se nombra al hombre o mujer que nació en Macas?",
-    answer: "Macabeo - Macabea",
-    options: [
-      "Macabeo - Macabea",
-      "Maquense",
-      "Moronense - Moronensa",
-      "Ninguna de las anteriores"
-    ]
-  },
-  {
-    numb: 265,
-    question: "¿En el año de 1946 cómo se construyó el aeropuerto de Macas?",
-    answer: "En base a mingas.",
-    options: [
-      "En base a gestión y préstamo",
-      "En base a un préstamo",
-      "En base a mingas.",
-      "En base a gestión"
-    ]
-  },
-  {
-    numb: 266,
-    question: "¿Cuál es la superficie de Macas?",
-    answer: "11,89 km²",
-    options: [
-      "11,89 km²",
-      "15,89 km²",
-      "12,89 km²",
-      "22,89 km²"
-    ]
-  },
-  {
-    numb: 267,
-    question: "En la gastronomía del cantón Morona, los amantes de la cocina utilizan productos propios de la amazonia como:",
-    answer: "La yuca, pelma, elepo, palmito.",
-    options: [
-      "La yuca, pelma, elepo, remolacha.",
-      "La yuca, pelma, elepo, palmito.",
-      "La yuca, pelma, elepo, chaucha.",
-      "La yuca, pelma, elepo, pepino."
-    ]
-  },
-  {
-    numb: 268,
-    question: "¿En qué artículo del COOTAD establece las competencias municipales en el manejo de material pétreo?",
-    answer: "Art 264, literal 12",
-    options: [
-      "Art 264, literal 12",
-      "Art 267 numeral 15",
-      "Art 264 numeral 11",
-      "Art 268 numeral 10"
-    ]
-  },
-  {
-    numb: 269,
-    question: "¿Cuál es la función principal del Concejo Municipal de Morona?",
-    answer: "Crear ordenanzas",
-    options: [
-      "Ejecutar obras",
-      "Crear ordenanzas",
-      "Administrar justicia",
-      "Recaudar impuestos"
-    ]
-  },
-  {
-    numb: 270,
-    question: "¿Qué competencia tiene el municipio respecto al agua potable?",
-    answer: "Gestión y prestación del servicio",
-    options: [
-      "Control nacional",
-      "Regulación internacional",
-      "Gestión y prestación del servicio",
-      "Ninguna"
-    ]
-  },
-  {
-    numb: 271,
-    question: "¿Cuál de las siguientes es una competencia exclusiva del Municipio?",
-    answer: "Agua potable y alcantarillado",
-    options: [
-      "Educación superior",
-      "Seguridad interna",
-      "Agua potable y alcantarillado",
-      "Telecomunicaciones"
-    ]
-  },
-  {
-    numb: 272,
-    question: "¿Qué competencia tiene el municipio en movilidad urbana?",
-    answer: "Control de tránsito local",
-    options: [
-      "Venta de vehículos",
-      "Control de tránsito local",
-      "Importación de vehículos",
-      "Revisión tributaria"
-    ]
-  },
-  {
-    numb: 273,
-    question: "¿Qué planificación debe elaborar obligatoriamente el Municipio?",
-    answer: "Plan de Desarrollo y Ordenamiento Territorial",
-    options: [
-      "Plan de Comercio Exterior",
-      "Plan Estratégico Nacional",
-      "Plan de Desarrollo y Ordenamiento Territorial",
-      "Plan de Seguridad Ciudadana"
-    ]
-  },
-  {
-    numb: 274,
-    question: "¿Qué entidad aprueba el presupuesto del GAD Municipal de Morona?",
-    answer: "El Concejo Municipal",
-    options: [
-      "El alcalde",
-      "La Asamblea Nacional",
-      "El Concejo Municipal",
-      "El Ministerio de Economía y Finanzas"
-    ]
-  },
-  {
-    numb: 275,
-    question: "¿Cuál es una competencia exclusiva de los municipios en Ecuador?",
-    answer: "Recolección de basura",
-    options: [
-      "Defensa nacional",
-      "Recolección de basura",
-      "Administración de puertos internacionales",
-      "Regulación de bancos"
-    ]
-  },
-  {
-    numb: 276,
-    question: "¿Qué tipo de vías son responsabilidad del municipio de Morona?",
-    answer: "Vías urbanas",
-    options: [
-      "Vías nacionales",
-      "Vías urbanas",
-      "Carreteras vecinales y parroquiales",
-      "Redes ferroviarias"
-    ]
-  },
-  {
-    numb: 277,
-    question: "¿Qué tipo de impuestos puede cobrar el municipio?",
-    answer: "Impuesto Predial",
-    options: [
-      "IVA",
-      "Impuesto Predial",
-      "Impuesto a la renta",
-      "Impuesto de exportaciones"
-    ]
-  },
-  {
-    numb: 278,
-    question: "¿Qué función tiene el municipio respecto al patrimonio cultural?",
-    answer: "Preservarlo y protegerlo",
-    options: [
-      "Ignorar su existencia",
-      "Preservarlo y protegerlo",
-      "Venderlo al mejor postor",
-      "Privatizarlo"
-    ]
-  },
-  {
-    numb: 279,
-    question: "¿En qué actividad turística puede intervenir el municipio de Morona?",
-    answer: "Regulación y promoción turística local",
-    options: [
-      "Regulación y promoción turística local",
-      "Control de líneas aéreas",
-      "Exportación de productos turísticos",
-      "Regulación de turismo internacional"
-    ]
-  },
-  {
-    numb: 280,
-    question: "¿Cuál es la autoridad responsable de emitir ordenanzas municipales?",
-    answer: "El Consejo Municipal",
-    options: [
-      "El Alcalde",
-      "El Gobernador",
-      "La Policía Nacional",
-      "El Consejo Municipal"
-    ]
-  },
+  
+
   {
     numb: 281,
     question: "¿Qué debe garantizar el municipio en el uso de los espacios públicos?",
@@ -4216,7 +3668,7 @@ let questions = [
   {
     numb: 334,
     question: "¿Quién asistió a la inauguración del Árbol Tótem de la ciudad de Macas?",
-    answer: "Alcalde de Macas",
+    answer: "Embajador de Francia",
     options: [
       "Alcalde de Macas",
       "Ministro de Turismo",
@@ -4227,7 +3679,7 @@ let questions = [
   {
     numb: 335,
     question: "¿Dónde se ubica el Árbol Tótem inaugurado en Macas?",
-    answer: "Parque Central",
+    answer: "Parque Recreacional de la Ciudad de Macas",
     options: [
       "Parque Central",
       "Plaza Cívica",
@@ -4293,7 +3745,7 @@ let questions = [
   {
     numb: 341,
     question: "¿Qué tipo de aisladores sísmicos incorpora el puente principal sobre el río Upano?",
-    answer: "Doble péndulo",
+    answer: "Triple péndulo",
     options: [
       "Mono péndulo",
       "Doble péndulo",
@@ -4392,7 +3844,7 @@ let questions = [
   {
     numb: 350,
     question: "¿A qué profundidad se anclan los pilotes del puente principal sobre el río Upano?",
-    answer: "30 m",
+    answer: "18 m",
     options: [
       "12 m",
       "18 m",
@@ -4403,7 +3855,7 @@ let questions = [
   {
     numb: 351,
     question: "¿Dónde se ubica el Parque Recreacional de Macas?",
-    answer: "Barrio 27 de febrero",
+    answer: "Barrio El Mirador de Macas",
     options: [
       "Barrio 27 de febrero",
       "Malecón del Upano",
@@ -4436,7 +3888,7 @@ let questions = [
   {
     numb: 354,
     question: "¿Qué altura aproximada tiene la imagen de la Virgen del Quilamo?",
-    answer: "15 metros",
+    answer: "18 metros",
     options: [
       "5 metros",
       "10 metros",
